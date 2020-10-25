@@ -1,2 +1,2 @@
-# jandemel_blog
+# JanDemel.cz blog source code
 Personal blog.
